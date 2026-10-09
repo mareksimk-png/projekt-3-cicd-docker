@@ -12,3 +12,8 @@ env/
 
 # Docker
 .dockerignore
+
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
